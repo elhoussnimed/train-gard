@@ -596,6 +596,7 @@ header .services .nutrition {
 .features .container .bullets span {
   width: 30px;
   height: 5px;
+  margin-right: 5px;
   background-color: #2a2a2a;
   border-radius: 10px;
   display: inline-block;
@@ -1117,7 +1118,7 @@ header .services .nutrition {
     height: 330px;
   }
   .ads .container .right img {
-    bottom: 0%;
+    bottom: -5%;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -1368,6 +1369,7 @@ header .services .nutrition {
 .blog .container .wrapper .parent .bottom a.no-hover-btn {
   color: black;
   border-color: black;
+  font-size: 0.9em;
 }
 .blog .container .more a {
   display: block;
