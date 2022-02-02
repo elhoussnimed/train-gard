@@ -412,7 +412,7 @@ header .services .nutrition {
     background-color: white;
   }
   header .top-header .infos .navigation nav ul li {
-    padding: 50px 25px;
+    padding: 25px 25px;
   }
   header .top-header .infos .navigation nav ul li a {
     font-weight: 500;
@@ -425,19 +425,19 @@ header .services .nutrition {
   }
 
   header .landing {
-    background-position-x: 30%;
+    background-position-x: 50%;
   }
   header .landing .container {
     justify-content: center;
   }
   header .landing .container .content h3 {
-    font-size: 15px;
+    font-size: 13px;
   }
   header .landing .container .content h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
   header .landing .container .content h2 {
-    font-size: 20px;
+    font-size: 15px;
   }
   header .landing .container .content::before {
     left: -11%;
@@ -445,6 +445,7 @@ header .services .nutrition {
   header .landing .container .content .btn {
     position: relative;
     left: 5%;
+    font-size: 15px;
   }
   header .services {
     flex-direction: column;
@@ -492,7 +493,7 @@ header .services .nutrition {
 .about .container .left h2 {
   position: relative;
   margin-bottom: 10px;
-  font-size: 3em;
+  font-size: 2.5em;
   text-transform: uppercase;
   font-weight: 900;
 }
@@ -700,7 +701,7 @@ header .services .nutrition {
   position: relative;
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 2.5em;
+  font-size: 2em;
   margin-bottom: 30px;
 }
 .testimonial .container .reviews .left h2::before {
@@ -1074,7 +1075,7 @@ header .services .nutrition {
 .ads .container .left h2 {
   color: white;
   text-transform: uppercase;
-  font-size: 3em;
+  font-size: 2.5em;
   font-weight: 900;
   margin-bottom: 10px;
   position: relative;
